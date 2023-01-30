@@ -1,0 +1,8 @@
+#ifndef TEST2_FLAME_CFG_H
+#define TEST2_FLAME_CFG_H
+
+#define FLAME_1_PIN PD0
+#define FLAME_2_PIN PD1
+#define FLAME_3_PIN PD2
+
+#endif //TEST2_FLAME_CFG_H

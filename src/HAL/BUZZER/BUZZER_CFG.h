@@ -1,0 +1,6 @@
+#ifndef SMART_HOME_BUZZER_CFG_H
+#define SMART_HOME_BUZZER_CFG_H
+
+#define BUZZER_PIN   PA3
+
+#endif //SMART_HOME_BUZZER_CFG_H
